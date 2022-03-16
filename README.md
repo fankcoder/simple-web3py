@@ -1,7 +1,7 @@
 # simple-web3py
-simple useful api for web3py.
+simple way to use web3py api.
 
-stop confusion me and let me free.
+Let web3py stop bothering me.
 
 # functions
 
